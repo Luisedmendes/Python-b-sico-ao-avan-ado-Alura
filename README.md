@@ -1,2 +1,2 @@
-# Python-b-sico-ao-avan-ado-Alura
+# Python-basico_ao_avançado
 Jogo da forca e número secreto
